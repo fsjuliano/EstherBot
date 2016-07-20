@@ -1,5 +1,5 @@
 {
-    "BOT": "Olá!\nEu sou o robô pessoal para Juliano Freitas, profissional de Gestão de TI.\n![juliano](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)%[Mais sobre Juliano](https://www.linkedin.com/in/juliano-freitas-da-silva-msc-pmp-923834a) %[Fato Randômico!](postback:random_fact)",
+    "BOT": "Olá!\nEu sou o robô pessoal para Juliano Freitas, profissional de Gestão de TI.\n![juliano](https://raw.githubusercontent.com/fsjuliano/EstherBot/master/img/juli.jpg)%[Mais sobre Juliano](https://www.linkedin.com/in/juliano-freitas-da-silva-msc-pmp-923834a) %[Fato Randômico!](postback:random_fact)",
     "HELLO": "Olá, obrigado por utilizar o meu robô! Se quiser me enviar um e-mail, basta clicar no botão abaixo %[e-mail](mailto:fsjuliano@gmail.com)",
     "OI": "Oi, amigo!",
     "OLÁ": "Olá, amigo!",
